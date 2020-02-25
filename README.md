@@ -6,7 +6,7 @@ Código: 20171020038
 
 ## Ejercicios simples:
 
-5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura. área del triángulo = (base * altura)/2  [AreaTriangulo]_(https://github.com/AndreaGC/EjerciciosPythonB-sica/blob/master/areaTri%C3%A1ngulo.py)
+5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura. área del triángulo = (base * altura)/2  [AreaTriangulo]_(https://github.com/AndreaGC/EjerciciosPythonB-sica/blob/master/areaTri%C3%A1ngulo.py) 
 
 11. Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin IVA.  https://github.com/AndreaGC/EjerciciosPythonB-sica/blob/master/IVA.py
 
