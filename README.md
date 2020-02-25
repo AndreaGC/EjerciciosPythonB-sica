@@ -1,16 +1,23 @@
 # EjerciciosPythonB-sica
+
 Andrea Carolina Gómez Camelo
+
 Código: 20171020038
 
 ##Ejercicios simples:
+
 5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura. área del triángulo = (base * altura)/2  [AreaTriangulo]_(https://github.com/AndreaGC/EjerciciosPythonB-sica/blob/master/areaTri%C3%A1ngulo.py)
+
 11. Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin IVA. 
 
 ##Ejercicio con condicionales:
+
 18. Escribir un programa que determine si un número leído desde el teclado es par o impar
+
 21. Escribir un programa que dado un número del 1 a 7 escriba el correspondiente nombre del día de la semana.
 
 ##Ejercios con ciclos:
+
 32. Escribir un programa que realice la pregunta ¿Desea continuar S/N? y que no deje de hacerla hasta que el usuario teclee N. 
 38. Escribir un programa que detecte si un número es primo o no. Un número es primo si sólo es divisible por sí mismo y por la unidad. 
 
